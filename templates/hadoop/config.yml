@@ -1,0 +1,8 @@
+name: Apache Hadoop
+description: |
+  Apache Hadoop cluster
+version: 3.4.9-rancher1
+category: Clustering
+maintainer: "Raul Sanchez <rawmind@gmail.com>"
+projectURL: 
+license: 
