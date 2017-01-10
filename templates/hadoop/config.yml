@@ -4,5 +4,5 @@ description: |
 version: 3.4.9-rancher1
 category: Clustering
 maintainer: "Raul Sanchez <rawmind@gmail.com>"
-projectURL: 
+projectURL:  https://github.com/rawmind0/alpine-zk
 license: 
